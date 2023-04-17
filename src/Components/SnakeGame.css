@@ -1,10 +1,10 @@
 .Grid {
-    width: 1700px;
-    height: 1700px;
+    width: 425px;
+    height: 425px;
 }
 .Grid div {
-    width: 100px;
-    height: 100px;
+    width: 25px;
+    height: 25px;
     outline: 1px solid;
     float: left;
 }
